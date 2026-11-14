@@ -36,10 +36,13 @@ What we care about is the result:
 
 ## Branches
 
-- `tux-force` is the default branch of each fork and is where development happens. Branch off it and open pull
-  requests against it.
-- Upstream branches (`main`, `legacy-c`, `bleeding-edge`, ...) mirror the projects we forked from. We pull new upstream
-  code into `tux-force` when it is useful; we do not push to upstream.
+- `main` is protected and holds released code. It only changes through pull requests from `develop`, with green CI;
+  every merge into `main` runs the release workflow.
+- `develop` is the default branch and where development comes together.
+- Work happens on short-lived branches off `develop`: `feature/<name>` for new things, `fix/<name>` for bug fixes,
+  `chore/<name>` for tooling and docs. Open the pull request against `develop`; it is merged when CI is green.
+- `upstream/...` branches (`upstream/main`, `upstream/legacy-c`, `upstream/bleeding-edge`) mirror the projects we
+  forked from. We pull new upstream code into `develop` when it is useful; we do not push to upstream.
 - Code, comments and documentation are written in English.
 
 ## Reporting problems
