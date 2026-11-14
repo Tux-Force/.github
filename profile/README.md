@@ -10,7 +10,7 @@ from Microsoft's licensing service, and only what your account is entitled to wi
 - **A whole ecosystem, not a single tool.** Runtime, Wine, sign-in and downloads today; a graphical launcher with
   library and store view, automatic prefix setup and a community compatibility list next.
 - **AI-assisted development is welcome.** We build with AI tools in the open, with clear rules: a human reviews every
-  change, AI help is disclosed, and no Microsoft or decompiled code goes in. See [CONTRIBUTING](CONTRIBUTING.md).
+  change, AI help is disclosed, and no Microsoft or decompiled code goes in. See [CONTRIBUTING](https://github.com/Tux-Force/.github/blob/main/CONTRIBUTING.md).
 - **Upstream first.** Our core repositories are soft forks. We merge upstream regularly, credit it everywhere and send
   fixes back.
 
