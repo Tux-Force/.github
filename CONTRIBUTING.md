@@ -17,7 +17,13 @@ What we care about is the result:
 - **Say when AI helped.** Add a `Co-Authored-By` trailer for the assistant or a short note in the pull request.
 - **Say when you vibe-coded it.** If you have no solid background in software engineering or computer science and the
   change was written by AI without you really understanding the code, please say so in the pull request. That is
-  welcome too; it just tells reviewers to look more closely.
+  welcome too. The reason: experienced developers steer AI differently, step in when it goes wrong and can answer its
+  questions properly. Without that background a feature often just about works, and reviewers need to know where to
+  look more closely.
+- **Run an AI security review before the pull request.** Required when AI wrote any part of the change, recommended
+  for changes written by hand. Let an AI assistant review the change for security problems (for example injection,
+  unsafe file or network handling, leaked tokens, missing input checks), fix what it finds, and mention in the pull
+  request that the review was done.
 
 ## Ground rules
 
