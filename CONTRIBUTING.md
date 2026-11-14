@@ -4,16 +4,20 @@ Thanks for helping! This guide applies to all Tux-Force repositories unless a re
 
 ## AI welcome
 
-Tux-Force is built with AI, and we want you to use it too. Used well, today's coding assistants write, review and
-debug code at a level that beats the average programmer, and they let a small community build a whole ecosystem.
-Use whatever tools make you productive: chat assistants, coding agents, autocomplete, all fine.
+AI-assisted contributions are welcome here. Tux-Force itself is built with AI tools, and chat assistants, coding
+agents or autocomplete are all fine to use. Writing everything by hand is just as welcome.
 
-What we care about is the result, not how it was typed:
+> **Our opinion:** used well, today's coding assistants write, review and debug code better than the average
+> programmer, provided you know how to work with them.
+
+What we care about is the result:
 
 - **You own what you submit.** Run it, test it, and be ready to answer questions about it in review.
 - **Same review for everyone.** Human, AI or both: every pull request gets the same review and tests.
-- **Say when AI helped.** Add a `Co-Authored-By` trailer for the assistant or a short note in the pull request
-  description. No judgement attached: it keeps the history transparent and helps others learn good AI workflows.
+- **Say when AI helped.** Add a `Co-Authored-By` trailer for the assistant or a short note in the pull request.
+- **Say when you vibe-coded it.** If you have no solid background in software engineering or computer science and the
+  change was written by AI without you really understanding the code, please say so in the pull request. That is
+  welcome too; it just tells reviewers to look more closely.
 
 ## Ground rules
 

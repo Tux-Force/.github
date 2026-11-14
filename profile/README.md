@@ -9,8 +9,8 @@ from Microsoft's licensing service, and only what your account is entitled to wi
 
 - **A whole ecosystem, not a single tool.** Runtime, Wine, sign-in and downloads today; a graphical launcher with
   library and store view, automatic prefix setup and a community compatibility list next.
-- **Built with AI, AI welcome.** We develop with AI tools in the open and invite you to do the same. Used well, they
-  out-code the average programmer; what counts is a tested result. See [CONTRIBUTING](https://github.com/Tux-Force/.github/blob/main/CONTRIBUTING.md).
+- **AI welcome.** Tux-Force is developed with AI tools in the open, and AI-assisted contributions are welcome. What
+  counts is a tested result. See [CONTRIBUTING](https://github.com/Tux-Force/.github/blob/main/CONTRIBUTING.md).
 - **Our own pace.** The core repositories are forks of the xodus-gaming projects. We pull in new upstream code when it
   helps, credit it everywhere and otherwise develop independently.
 
