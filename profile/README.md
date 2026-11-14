@@ -1,4 +1,4 @@
-<p align="center"><img width="120" src="https://raw.githubusercontent.com/Tux-Force/tux-force/main/brand/png/avatar-512.png" alt="Tux-Force" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Tux-Force/tux-force/main/brand/png/social-preview-1280x640.png" alt="Tux-Force: the PC games you own or subscribe to, on Linux" width="100%" /></p>
 <h1 align="center">Tux-Force</h1>
 <p align="center"><b>The PC games you own or subscribe to, on Linux. Real licenses, no cracks.</b></p>
 
