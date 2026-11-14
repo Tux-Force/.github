@@ -12,7 +12,7 @@ agents or autocomplete are all fine to use. Writing everything by hand is just a
 
 What we care about is the result:
 
-- **You own what you submit.** Run it, test it, and be ready to answer questions about it in review.
+- **Test what you submit.** Run it and check that it does what the pull request says.
 - **Same review for everyone.** Human, AI or both: every pull request gets the same review and tests.
 - **Say when AI helped.** Add a `Co-Authored-By` trailer for the assistant or a short note in the pull request.
 - **Say when you vibe-coded it.** If you have no solid background in software engineering or computer science and the
