@@ -45,6 +45,15 @@ What we care about is the result:
   forked from. We pull new upstream code into `develop` when it is useful; we do not push to upstream.
 - Code, comments and documentation are written in English.
 
+## Documentation
+
+The user documentation lives on the website, [tux-force.github.io](https://tux-force.github.io), in its own
+repository ([Tux-Force/tux-force.github.io](https://github.com/Tux-Force/tux-force.github.io)), not next to the code.
+So when your change alters something users notice, such as a new command or option, a changed setting, a new message
+or prompt, or a game that now works, please also open a small pull request on the website that updates the page
+about it. Changes users do not notice, like refactoring or internal fixes, need no website change. Developer notes
+that belong to the code (formats, protocols, crate docs) stay in the code repository.
+
 ## Reporting problems
 
 Open an issue with the game, your distribution, GPU and driver, and the relevant part of the log (without tokens or
